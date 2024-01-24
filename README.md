@@ -1,6 +1,7 @@
 # awareso
 PROJECT 1
 Building one stop wedding shopping site. Project inspiration from JUMIA
+
 Buying and Selling Marriage items and accessories like wedding gowns, rings, kente cloth etc.
 
 Create an account
